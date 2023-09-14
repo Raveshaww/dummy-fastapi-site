@@ -1,0 +1,3 @@
+- Start with `uvicorn main:app --reload`
+- swagger at `http://127.0.0.1:8000/docs#/default/read_item_items__item_id__get`
+- redoc at `http://127.0.0.1:8000/redoc`
